@@ -26,3 +26,7 @@ Looking for opportunities to apply my knowledge and grow as a professional in a 
 **Developed Responsive Web Pages:** Created responsive web pages using HTML, CSS, and JavaScript. Focused on optimizing performance and ensuring a clean, maintainable codebase to deliver seamless user experiences across devices.
 
 **Single Page Application (SPA) Development with React:** Built SPAs leveraging React and its ecosystem, including React Router and Redux for state management. Applied best practices for code structure and reusability, producing scalable and dynamic web applications.
+
+## **Education**
+
+- Ege University - BA degree in Mathematics (2011-2019)
