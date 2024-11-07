@@ -30,3 +30,8 @@ Looking for opportunities to apply my knowledge and grow as a professional in a 
 ## **Education**
 
 - Ege University - BA degree in Mathematics (2011-2019)
+
+## **English**
+
+I have developed my English language skills through a variety of experiences, starting with formal education in school and college, where I built a solid foundation in grammar, vocabulary, and communication.
+I have B1 category according to British Council
