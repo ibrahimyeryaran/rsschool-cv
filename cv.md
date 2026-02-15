@@ -55,11 +55,11 @@ export default function promiseAll(iterable) {
 
 ## Training & Certificates
 
-The Complete Javascript Course, Udemy (Jonas Schmedtmann), 2024
-The Ultimate React Course, Udemy (Jonas Schmedtmann), 2024
-Understanding Typescript, Udemy (Maximilian Schwarzmüller), 2024
-React Native - The Practical Guide (Maximilian Schwarzmüller), 2024
-RS School JS/FE Course English (https://app.rs.school/certificate/pjy9nke8), 2025
+- The Complete Javascript Course, Udemy (Jonas Schmedtmann), 2024
+- The Ultimate React Course, Udemy (Jonas Schmedtmann), 2024
+- Understanding Typescript, Udemy (Maximilian Schwarzmüller), 2024
+- React Native - The Practical Guide (Maximilian Schwarzmüller), 2024
+- [RS School JS/FE Course English](https://app.rs.school/certificate/pjy9nke8), 2025
 
 ## Languages
 
