@@ -1,34 +1,67 @@
 # İbrahim Yeryaran
 
-junior frontend developer
-
 ## Contacts
 
-**Locations:** Turkey
-**Phone:** +90506**\***04
-**Email:** ibrahimyeryaran@gmail.com
+**E-mail:** ibrahimyeryaran@gmail.com<br/>
+**Telegram:** @ibrahimyryrn<br/>
+**GitHub:** [ibrahimyeryaran](https://github.com/ibrahimyeryaran)
 
-## Summary
+## About Me
 
-Junior Frontend Developer with a strong foundation in web development and English language skills. Motivated and detail-oriented. I have theoretical knowledge and practical experience in creating responsive web pages and creating single page application using React and its ecosystem.
-Looking for opportunities to apply my knowledge and grow as a professional in a dynamic team environment.
+I am a conscientious person who works hard and pays attention to details. I am flexible, quick to pick up new skills and eager to learn from others. I also have lots of ideas and enthusiasm.
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Redux
-- **Tools:** WebStorm, Chrome DevTools, Git, GitHub, Figma
-- **Applied Sciences:** Computer Sciences, Object-oriented Programming, Clean Code
+- HTML5, CSS3, SASS
+- js, React, Next js
+- Git/GitHub
+- NPM, Webpack
+- VS Code, WebStorm
+- Figma
 
-## Experience
+### Code Example
 
-**Developed Responsive Web Pages:** Created responsive web pages using HTML, CSS, and JavaScript. Focused on optimizing performance and ensuring a clean, maintainable codebase to deliver seamless user experiences across devices.
-**Single Page Application (SPA) Development with React:** Built SPAs leveraging React and its ecosystem, including React Router and Redux for state management. Applied best practices for code structure and reusability, producing scalable and dynamic web applications.
+```javascript
+export default function promiseAll(iterable) {
+  return new Promise((resolve, reject) => {
+    const results = new Array(iterable.length);
+    let unresolved = iterable.length;
+
+    if (unresolved === 0) {
+      resolve(results);
+      return;
+    }
+
+    iterable.forEach(async (item, index) => {
+      try {
+        const value = await item;
+        results[index] = value;
+        unresolved -= 1;
+
+        if (unresolved === 0) {
+          resolve(results);
+        }
+      } catch (err) {
+        reject(err);
+      }
+    });
+  });
+}
+```
 
 ## Education
 
-Ege University - BA degree in Mathematics (2011-2019)
+- **University:** Ege University - Mathematics and CS
 
-## English
+## Training & Certificates
 
-- I have developed my English language skills through a variety of experiences, starting with formal education in school and college, where I built a solid foundation in grammar, vocabulary, and communication. I have B1 category according to British Council
+The Complete Javascript Course, Udemy (Jonas Schmedtmann), 2024
+The Ultimate React Course, Udemy (Jonas Schmedtmann), 2024
+Understanding Typescript, Udemy (Maximilian Schwarzmüller), 2024
+React Native - The Practical Guide (Maximilian Schwarzmüller), 2024
+RS School JS/FE Course English (https://app.rs.school/certificate/pjy9nke8), 2025
+
+## Languages
+
+- Turkish - Native
+- English - Intermediate
